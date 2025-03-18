@@ -21,9 +21,7 @@ do-one-click-deploy-flask/
 ### **Deploy to DigitalOcean**
 Click the button below to instantly deploy this app on **DigitalOcean App Platform**:
 
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/ajot/do-one-click-deploy-flask/tree/main&refcode=ab3d355caa45)
-
-Or, use your referral link: [https://m.do.co/c/ab3d355caa45](https://m.do.co/c/ab3d355caa45)
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/ajot/do-one-click-deploy-flask/tree/main&refcode=ab3d355caa45&instance_size_slug=apps-s-1vcpu-0.5gb)
 
 ### **Running Locally**
 ```bash
