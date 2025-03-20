@@ -7,7 +7,7 @@ spec:
       environment_slug: python
       git:
         branch: main
-        repo_clone_url: https://github.com/ajot/one-click-deploy-flask
+        repo_clone_url: https://github.com/ssaengs/do-one-click-deploy-flask
       build_command: pip install -r requirements.txt
       run_command: gunicorn --worker-tmp-dir /dev/shm wsgi:app
       http_port: 8080
